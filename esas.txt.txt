@@ -1,3 +1,4 @@
 ad soyad
 age
 ixtisas
+qrup ad
