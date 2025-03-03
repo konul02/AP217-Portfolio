@@ -1,2 +1,3 @@
 ad soyad
 age
+ixtisas
